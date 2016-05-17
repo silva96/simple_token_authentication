@@ -13,5 +13,5 @@ gemspec
 # To use debugger
 # gem 'debugger'
 
-gem 'railties', '5.0.0.beta3' # allow the beta verison to be resolved
+gem 'railties', '>= 5.0.0.beta3' # allow the beta verison to be resolved
 
